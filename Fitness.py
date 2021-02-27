@@ -114,7 +114,7 @@ def back_raises():
 def press_up():
     print('Place your hands underneath your shoulders with your arms fully extended, palms flat and fingers facing forward. Keep your legs straight and knees off the floor.','Bend your arms at your elbows, lowering your chest until its 5cm above the floor and your elbows reach 90 degrees.','Keep your back and legs straight at all times, as if your body was a plank. Try not to bend or arch your upper or lower back as you push up. Push back up and repeat.')
 
-def close_grip _wall_push_ups():
+def close_grip_wall_push_ups():
     print('Bend your arms to lower yourself.','Stand at arms length (or further for more difficulty) from a wall. Place your hands on the wall at chest height and shoulder-width apart or closer.', 'A closer grip will work your triceps harder. With elbows tucked in, bend your arms to lower your body towards the wall. Let your heels come off the floor as you lean in to the wall to keep your body straight. Push back up and repeat 10 to 15 times.')
 
 def bench_dips():
