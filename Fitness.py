@@ -72,19 +72,19 @@ def squats():
 def tap_backs():
     print('To start tap backs','step your right leg back and swing both arms forward','then repeat with the opposite leg in a continuous rhythmic movement.','Look forward and keep your hips and shoulders facing forward. Dont let your front knee extend over your toes as you step back.')
 
-def Burpees():
+def burpees():
     print('To do a burpee from a standing position','drop into a squat with your hands on the ground','Kick your feet back into a push-up position.','Jump your feet back into a squat and jump up with your arms extending overhead.')
 
 def press_up():
     print('Place your hands underneath your shoulders with your arms fully extended','palms flat and fingers facing forward. Rest your knees on the floor.','Bend at your elbows, lowering your chest down, no lower than 5cm from the floor.',' Push back up and repeat.')
 
-def Bridges():
+def bridges():
     print('Lie on your back with your knees bent and heels close to your bottom. Your feet should be shoulder-width apart and flat on the floor.','Raise your hips to create a straight line from your knees to your shoulders. As you come up, tighten your abdominals and buttocks. Lower yourself gently to the starting position.','Repeat 8 to 10 times.')
           
-def One_leg_kickbacks():
+def one_leg_kickbacks():
     print('Place yourself on your hands and knees, with your knees under your hips and your hands under your shoulders.','Keeping your right leg bent at 90 degrees, raise it behind you as high as you can, squeezing your buttocks.',' Lower to the starting position.','Repeat 8 to 10 times with each leg'.)
 
-def Lunges():
+def lunges():
     print('Standing tall with your feet together, take a step forward with your right leg.','Slowly bend the knees until both legs are nearly at right angles. Your right knee should not extend over your toes and your left knee should not touch the floor.','Push back up to the starting position.Repeat 8 to 10 times before switching legs.')
           
 def side_lying_leg_raise():
@@ -99,7 +99,7 @@ def oblique_crunch():
 def plank():
     print('Lie on your front propped up on your forearms and toes. Keep your legs straight and hips raised to create a straight and rigid line from head to toe.','Your shoulders should be directly above your elbows. Focus on keeping your abs contracted during the exercise.','Hold this position for 5 to 10 seconds and repeat 8 to 10 times.')
           
-def side plank():
+def side_plank():
     print('Lie on your side propped up on an elbow. Your shoulder should be directly above your elbow. Straighten your legs and raise your hips to create a straight and rigid line from head to toe.','Keep your neck long and your shoulders down and away from your ears. Keep your abs contracted during the exercise.','Hold this position for 5 to 10 seconds and repeat 8 to 10 times. Repeat the exercise on the other side.')
 
 def stomach_crunch_with_legs_raised():
