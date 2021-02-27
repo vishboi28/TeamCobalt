@@ -65,23 +65,11 @@ def rocket_jumps():
 print('For rocket jumps, stand with your feet hip-width apart, legs bent and hands on your thighs.','Jump up, driving your hands straight above your head and extending your entire body. Land softly, reposition your feet and repeat.','For more of a challenge, start in a lower squat position and hold a weight or a bottle of water in both hands at the centre of your chest.')
 
 def star_jumps():
-print('To do a star jump, stand tall with your arms by your side and knees slightly bent.','Jump up, extending your arms and legs out into a star shape in the air.',
-'Land softly, with your knees together and hands by your side.',
+print('To do a star jump, stand tall with your arms by your side and knees slightly bent.','Jump up, extending your arms and legs out into a star shape in the air.','Land softly, with your knees together and hands by your side.','Keep your abs tight and back straight during the exercise.)
 
-'Keep your abs tight and back straight during the exercise.)
-
-Squats
-Squat starting position
-Squat in motion
-As a less energetic alternative, do some squats. Stand with your feet shoulder-width apart and your hands down by your sides or stretched out in front for extra balance.
-
-Lower yourself by bending your knees until they're nearly at a right angle, with your thighs parallel to the floor.
-
-Keep your back straight and don't let your knees extend over your toes.
-
-Recovery: walk or jog on the spot for 15 to 45 seconds.
-Tap backs: 2 sets of 15 to 24 reps
-Tap back in motion
+def squats():
+print('As a less energetic alternative, do some squats.',' Stand with your feet shoulder-width apart and your hands down by your sides or stretched out in front for extra balance','Lower yourself by bending your knees until theyre nearly at a right angle with your thighs parallel to the floor','Keep your back straight and dont let your knees extend over your toes.')
+tap_backs():
 To start tap backs, step your right leg back and swing both arms forward, then repeat with the opposite leg in a continuous rhythmic movement.
 
 Look forward and keep your hips and shoulders facing forward. Don't let your front knee extend over your toes as you step back.
