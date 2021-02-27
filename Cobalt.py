@@ -25,7 +25,7 @@ while option != 7:
         bench_dips()
         tricep_kickbacks()
     elif (option == 3):
-        squat_side_leg_rais()
+        side_leg_raise()
         bridges()
         one_leg_kickbacks()
         lunges()
