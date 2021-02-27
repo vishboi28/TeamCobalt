@@ -1,3 +1,5 @@
+from fitness import*
+
 option = 0
 
 def print_opt():
