@@ -13,17 +13,17 @@ def count(x):
         engine.say("done")
         engine.runAndWait()
 
-def march_on_the_spot(y=180):
+def march_on_the_spot():
     print("Start off marching on the spot and then march forwards and backwards. Pump your arms up and down in rhythm with your steps, keeping the elbows bent and the fists soft.")
-    count(y)
+    count(180)
  
-def heel_digs(y=60):
+def heel_digs():
     print("For heel digs, place alternate heels to the front, keeping the front foot pointing up, and punch out with each heel dig. Keep a slight bend in the supporting leg.")
-    count(y)
+    count(60)
     
-def knee_lifts(y=30):
+def knee_lifts():
     print("To do knee lifts, stand tall and bring up alternate knees to touch the opposite hand. Keep your abs tight and back straight. Keep a slight bend in the supporting leg.")
-    count(y)
+    count(30)
 
 def shoulder_rolls():
     print("For shoulder rolls, keep marching on the spot. Roll your shoulders forwards 5 times and backwards 5 times. Let your arms hang loose by your sides.")
