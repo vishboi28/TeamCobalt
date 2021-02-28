@@ -7,9 +7,8 @@ def print_opt():
     print("2. Upper Arm Workout")
     print("3. Firm butt Workout")
     print("4. Cardio Workout")
-    print("5. Toning Workout")
-    print("6. Legs, bums, and tums Workout")
-    print("7. Quit")
+    print("5. Legs, bums, and tums Workout")
+    print("6. Quit")
 
 while option != 7:
     print_opt()
@@ -44,5 +43,7 @@ while option != 7:
         stomach_crunch()
         oblique_crunch()
         back_raises()
-    else:
+    elif(option==6):
+        exit()
+    else
         print("Please enter a valid input")
