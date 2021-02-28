@@ -21,7 +21,7 @@ while option != 7:
         side_plank()
         stomach_crunch_with_legs_raised()
     elif (option == 2):
-        press_ups()
+        press_up()
         close_grip_wall_push_ups()
         bench_dips()
         tricep_kickbacks()
