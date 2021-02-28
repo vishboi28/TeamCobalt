@@ -64,7 +64,7 @@ def rocket_jumps():
     print('For rocket jumps, stand with your feet hip-width apart, legs bent and hands on your thighs.','Jump up, driving your hands straight above your head and extending your entire body. Land softly, reposition your feet and repeat.','For more of a challenge, start in a lower squat position and hold a weight or a bottle of water in both hands at the centre of your chest.')
 
 def star_jumps():
-    print('To do a star jump, stand tall with your arms by your side and knees slightly bent.','Jump up, extending your arms and legs out into a star shape in the air.','Land softly, with your knees together and hands by your side.','Keep your abs tight and back straight during the exercise.)
+    print('To do a star jump, stand tall with your arms by your side and knees slightly bent.','Jump up, extending your arms and legs out into a star shape in the air.','Land softly, with your knees together and hands by your side.','Keep your abs tight and back straight during the exercise.')
 
 def squats():
     print('As a less energetic alternative, do some squats.',' Stand with your feet shoulder-width apart and your hands down by your sides or stretched out in front for extra balance','Lower yourself by bending your knees until theyre nearly at a right angle with your thighs parallel to the floor','Keep your back straight and dont let your knees extend over your toes.')
@@ -82,7 +82,7 @@ def bridges():
     print('Lie on your back with your knees bent and heels close to your bottom. Your feet should be shoulder-width apart and flat on the floor.','Raise your hips to create a straight line from your knees to your shoulders. As you come up, tighten your abdominals and buttocks. Lower yourself gently to the starting position.','Repeat 8 to 10 times.')
           
 def one_leg_kickbacks():
-    print('Place yourself on your hands and knees, with your knees under your hips and your hands under your shoulders.','Keeping your right leg bent at 90 degrees, raise it behind you as high as you can, squeezing your buttocks.',' Lower to the starting position.','Repeat 8 to 10 times with each leg'.)
+    print('Place yourself on your hands and knees, with your knees under your hips and your hands under your shoulders.','Keeping your right leg bent at 90 degrees, raise it behind you as high as you can, squeezing your buttocks.',' Lower to the starting position.','Repeat 8 to 10 times with each leg')
 
 def lunges():
     print('Standing tall with your feet together, take a step forward with your right leg.','Slowly bend the knees until both legs are nearly at right angles. Your right knee should not extend over your toes and your left knee should not touch the floor.','Push back up to the starting position.Repeat 8 to 10 times before switching legs.')
