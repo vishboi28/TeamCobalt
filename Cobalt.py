@@ -1,4 +1,5 @@
 from fitness import*
+import sys
 
 option = 0
 
@@ -44,6 +45,6 @@ while option != 7:
         oblique_crunch()
         back_raises()
     elif(option==6):
-        exit()
+        sys.exit()
     else
         print("Please enter a valid input")
