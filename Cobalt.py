@@ -27,7 +27,7 @@ while option != 7:
         bench_dips()
         tricep_kickbacks()
     elif (option == 3):
-        side_leg_raise()
+        side_lying_leg_raise()
         bridges()
         one_leg_kickbacks()
         lunges()
@@ -41,8 +41,8 @@ while option != 7:
         lunges()
         calf_raises()
         bridges()
-        stomach_crunches()
-        obliques()
+        stomach_crunch()
+        oblique_crunch()
         back_raises()
     else:
         print("Please enter a valid input")
