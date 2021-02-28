@@ -1,5 +1,6 @@
 from fitness import*
 import sys
+import time
 
 option = 0
 
@@ -45,6 +46,8 @@ while option != 7:
         oblique_crunch()
         back_raises()
     elif(option==6):
+        print("End of Workout, Thank you")
+        time.sleep(2)
         sys.exit()
     else
         print("Please enter a valid input")
